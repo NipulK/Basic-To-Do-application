@@ -185,7 +185,6 @@ body {
 }
 
 .todo-list li.completed span {
-    text-decoration: line-through;
     color: #155724;
     font-weight: 600;
 }
